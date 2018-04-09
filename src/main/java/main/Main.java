@@ -1,8 +1,8 @@
 package main;
 
-import Quoters.MyContext;
-import Quoters.Quoter;
-import Quoters.TerminatorQuoter;
+import quoters.MyContext;
+import quoters.Quoter;
+import quoters.TerminatorQuoter;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.support.ClassPathXmlApplicationContext;

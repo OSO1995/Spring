@@ -1,4 +1,4 @@
-package Quoters;
+package quoters;
 
 
 import org.springframework.beans.BeansException;

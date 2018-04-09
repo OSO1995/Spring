@@ -1,4 +1,4 @@
-package Quoters;
+package quoters;
 
 public class TerminatorQuoter implements Quoter {
 
